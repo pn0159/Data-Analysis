@@ -10,7 +10,10 @@ The goal of my project is to classify the most risk factors for stroke and estim
 
 # Data Source and Data Description
 
-The analysis seeks to predict the stroke using logistic regression. The analysis dataset was retrieved online from kaggle: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset. The dataset is used to predict whether a patient is likely to get stroke based on factors like gender, age, various diseases, and smoking status. It contains 5111 observations and 12 variables.The attributes in the dataset are:
+The analysis seeks to predict the stroke using logistic regression. The analysis dataset was retrieved online from kaggle: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset.
+
+The dataset is used to predict whether a patient is likely to get stroke based on factors like gender, age, various diseases, and smoking status. It contains 5111 observations and 12 variables.The attributes in the dataset are:
+
 1 Id:Patient Unique identifier Interval
 
 2 gender:Describes the gender of the patient:Male, Female, and Other
