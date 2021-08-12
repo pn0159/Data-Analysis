@@ -37,3 +37,22 @@ The dataset is used to predict whether a patient is likely to get stroke based o
 11 smoking_status: Does patient smoke? Formerly smoked, never smoked, smokes 
 
 12 stroke: Occurrence of stroke? 0: Patient doesn't have a stroke 1: Patient had a stroke
+
+# Problem Statement or Hypothesis
+
+This project is mainly focused on predicting out whether a patient is likely to get stroke based on factors like gender, age, body mass index, average glucose level and various diseases like hypertension, heart diseases, and smoking status. The main objective is to explore the factors affecting the stroke. 
+
+Relationships:
+
+• Is there any significant relationship between stroke and various diseases.
+
+• Is there any significant relationship between stroke, body mass index and average glucose level.
+
+• Is there any significant relationship between a stroke and socio-economic and demographic factors like gender, age, resident type, marital status, work type.
+
+Effect:
+
+• To what extent does socio economic and demographic factors affect stroke?
+
+• What are the main factors that affect stroke?
+
