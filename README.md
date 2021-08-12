@@ -87,3 +87,10 @@ Throughout the analysis i have used Excel and SPSS for model building and evalua
 4.Correlation
 
 5.Pearson chi-squared test of independence
+
+# Files
+
+
+# Summary
+
+In this project, a binary logistic regression model is built to identify patients with stroke using their health, socio-demographic data. Stroke is the leading cause of long-term disability. Early identification of stroke by healthcare professionals can help physicians and patients start treatment earlier to prevent or reduce serious consequences. The exploratory data analysis revealed interesting patterns. Through the analysis, I found that hypertension and heart diseases have significant affect on stroke and also I observed high stroke rate for people of age above 45.The resident_type factor did not have effect on stroke. The analysis showed that people who are married are more likely to get stroke which might be due to their health issues, personal life pressures and tensions and also both male and female are equally likely to get stroke. We had more female observations than male so this might be one cause of results showing not much variation among gender. The risk of those who previously smoked over nonsmokers getting stroke was high. This might be due to an abrupt change in the body's chemical intake.Also observed patients with body mass index above 30 and average glucose level >170mg/dl are more likely to get stroke. I have chosen sensitivity score and ROC AUC as key performance indicators because missing a positive case can be significantly more expensive than mis-identifying a negative case. The model achieved a sensitivity of 77.64% . The rate of actual positive increase exponentially up to approximate 0.4 rates of false-positive where it tended to a constant of about 0.9. The overall classification accuracy based on the model was 92.8%.I believe that in order to explain more variations in stroke apart from the factors considered in the project ,having information related to other risk factors for instance, diabetes, drinking habit , and diet can also be used in the future to make more accurate predictions. 
