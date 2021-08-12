@@ -56,3 +56,22 @@ Effect:
 
 • What are the main factors that affect stroke?
 
+# KPIs
+
+To evaluate analytical approach, one should define analytical metrics that match with the business objectives and processes. In this case, the business goal is to find the likelihood of patient with stroke rather than missing a truly positive case (i.e. a person with stroke) which would be significantly more expensive than misidentifying a negative case. If a person with stroke is not identified, their condition would not be treated and therefore it might result in severe consequences for the patient and healthcare system. Recall score is choosen as as one of the key performance indicator (KPI). False positive rate, which is equal to 1 − 𝑆𝑝𝑒𝑐𝑖𝑓𝑖𝑐𝑖𝑡𝑦, is the metric that should be minimized to avoid false positive identifications. To achieve both business goals, I use area under the receiver operating characteristic curve (ROC AUC) as other key performance indicators.
+
+# Steps
+
+Throughout the analysis i have used Excel and SPSS for model building and evaluation: The analysis can be handled in various steps:
+
+1. Data Acquisition and pre-processing 
+
+2. Modeling
+
+3. Evaluation/ Validation 
+
+4. Data driven Insights.
+
+• In the first step, we collect data and clean it and then we will be describing the appropriate statistical measures according to the nature of each variable using Explanatory Data Analysis and Correlation Analysis will be performed to examine the relations between different variables.
+
+• Then we model a Binary Logistic Regression and evaluate to what extent different factors in the dataset affect stroke
