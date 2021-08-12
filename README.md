@@ -1,1 +1,1 @@
-# Data-Analysis-using-SPSS-and-MS-Excel
+# Data Analysis using SPSS and MS Excel
