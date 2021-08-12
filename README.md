@@ -90,6 +90,9 @@ Throughout the analysis i have used Excel and SPSS for model building and evalua
 
 # Files
 
+Binary Logistic regression.xlsx
+
+spss outputs.spv
 
 # Summary
 
