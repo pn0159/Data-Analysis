@@ -82,8 +82,8 @@ Throughout the analysis i have used Excel and SPSS for model building and evalua
 
 2.Outliers
 
-3. Normality
+3.Normality
 
-4. Correlation
+4.Correlation
 
-5. Pearson chi-squared test of independence
+5.Pearson chi-squared test of independence
