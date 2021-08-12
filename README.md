@@ -75,3 +75,15 @@ Throughout the analysis i have used Excel and SPSS for model building and evalua
 • In the first step, we collect data and clean it and then we will be describing the appropriate statistical measures according to the nature of each variable using Explanatory Data Analysis and Correlation Analysis will be performed to examine the relations between different variables.
 
 • Then we model a Binary Logistic Regression and evaluate to what extent different factors in the dataset affect stroke
+
+## Data Preprocessing steps
+
+1.Missing values
+
+2.Outliers
+
+3. Normality
+
+4. Correlation
+
+5. Pearson chi-squared test of independence
